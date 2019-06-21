@@ -1,9 +1,12 @@
 {{ define "main" }}
+{{ $pagelist := union .Pages .Sections }}
+{{ $generallist := where .Site.Pages "Params.type" "general" }}
+{{ $pagelist := cond (eq .Params.includeGeneral true) (union $pagelist $generallist) $pagelist}}
   <main id="main">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="patterns-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ range $pagelist.ByTitle }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
@@ -11,7 +14,7 @@
               <use xlink:href="#bookmark"></use>
             </svg>
             {{ .Title }}
-          </a>
+           </a>
         </h2>
       </li>
     {{ end }}

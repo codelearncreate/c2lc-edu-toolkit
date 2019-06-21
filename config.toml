@@ -1,6 +1,11 @@
+baseURL = "https://resources.codelearncreate.org/"
 title = "Coding to Learn and Create"
 languageCode = "en"
 theme = "cupper-hugo-theme"
+
+[params]
+  description = "An open source toolkit for educators to build more inclusive coding education"
+  homeMetaContent = "An open source toolkit for educators to build more inclusive coding education"
 
 [menu]
   [[menu.nav]]
