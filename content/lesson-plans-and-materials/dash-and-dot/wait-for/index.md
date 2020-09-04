@@ -39,7 +39,7 @@ Students will learn about:
 
 * [Main lesson file](./Dash_and_Dot-Lesson_09-WAIT_FOR.pdf)
 * [Content to be displayed using projector](./Dash_and_Dot-Lesson_9.pptx)
-* [Clicker document](Clicker_8_Dash_and_Dot-Lesson_9-Apply.clkx) - Please right click and save file
+* [Clicker document](./Clicker_8_Dash_and_Dot-Lesson_9-Apply.clkx) - Please right click and save file
 
 ## Additional Content
 
