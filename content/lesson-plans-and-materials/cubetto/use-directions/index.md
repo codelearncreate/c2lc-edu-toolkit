@@ -38,13 +38,13 @@ Students will learn about:
 
 ## Required Files
 
-* [Main lesson file](./Cubetto-Lesson_2-USE_DIRECTIONS.pdf)
+* [Main lesson file](./CUBETTO-Lesson_2-_USE_DIRECTIONS.pdf)
 * GPS Video for Anchor Activity - Link to come
 
 ## Additional Content
 
-* [Location Core Vocabulary Document](./Cubetto_36_Location_Core_with_Basic_Fringe_Vocabulary_(OR).pdf)
+* [Location Core Vocabulary Document](./Cubetto_36_Location_Core_with_Basic_Fringe Vocabulary_(OR).pdf)
 * [Braille Vocabulary Document](./Cubetto_Braille_Vocabulary_List.docx)
-* [Cubetto Adaptations for Blind-Low Vision](./Cubetto_-_Adaptations)
+* [Cubetto Adaptations for Blind-Low Vision](./Cubetto_-_Adaptations_for_Blind-Low_Vision.pdf)
 * [Examining Cubetto for Accessibility](./Cubetto-Examining_Cubetto_for_Accessibility.pdf)
 
