@@ -20,16 +20,16 @@ In this activity, students are introduced to the directions associated with each
 
 Students will explore:
 
-* the basic commands: left, right, forward.
+* The basic commands: left, right, forward
 
 ### Coding to Learn and Create
 
 Students will learn about:
 
-* the importance of clear communication.
-* interpreting a simple map.
-* the use of basic directionality in daily activities.
-* working together in a small group setting: sharing materials, turn taking and listening..
+* The importance of clear communication
+* Interpreting a simple map
+* The use of basic directionality in daily activities
+* Working together in a small group setting: sharing materials, turn taking and listening
 
 ### Curriculum Connections
 
