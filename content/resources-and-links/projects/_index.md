@@ -19,4 +19,9 @@ This page will include a list of existing projects related to accessible coding 
 * [Tickle with Sphero](https://tickleapp.com/)
 * [Tinkercad Circuits simulation](https://www.tinkercad.com/circuits)
 * [Wonder with Dash and Dot](https://www.makewonder.com/dash)
+* [Apple: Everyone Can Code (Swift)](https://www.apple.com/newsroom/2018/05/apple-brings-everyone-can-code-to-schools-serving-blind-and-deaf-students/)
+* [Maya Isreal: Project TACTIC](https://ctrl.education.illinois.edu/TACTICal)
+* [PRCVI: Inclusive Coding for Students with Visual Impairments](https://www.prcvi.org/outreach/school-based-services/inclusive-coding-for-students-with-visual-impairments/)
+* [University of Alberta](http://www.rehabresearch.ualberta.ca/assistivetechnology/research/assistive-technology-development/)
+* [Project Core: Centre for Literacy & Disabilities Studies](http://www.project-core.com/ )
 {{% /ticks %}}
