@@ -23,5 +23,5 @@ This page will include a list of existing projects related to accessible coding 
 * [Maya Isreal: Project TACTIC](https://ctrl.education.illinois.edu/TACTICal)
 * [PRCVI: Inclusive Coding for Students with Visual Impairments](https://www.prcvi.org/outreach/school-based-services/inclusive-coding-for-students-with-visual-impairments/)
 * [University of Alberta](http://www.rehabresearch.ualberta.ca/assistivetechnology/research/assistive-technology-development/)
-* [Project Core: Centre for Literacy & Disabilities Studies](http://www.project-core.com/ )
+* [Project Core: Centre for Literacy & Disabilities Studies](http://www.project-core.com/)
 {{% /ticks %}}
