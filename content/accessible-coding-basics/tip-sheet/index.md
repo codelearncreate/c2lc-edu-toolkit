@@ -12,4 +12,4 @@ This page includes tips to support lesson plans in accessible coding education f
 * [Student Feedback Form](./student-feedback-template.pdf)
 
 ## Basic Fringe Vocabulary
-* [Basic Fringe Vocabulary](./basic-fringe-vocabulary.pdf)
+* [36 Location Core with Basic Fringe Vocabulary](./36-location-core-with-basic-fringe-vocabulary.pdf)
